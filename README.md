@@ -58,7 +58,7 @@ Transferir arquivo **exec_extrac_report_git.r** para qualquer diretório no Linu
 
 ---
 
-# CONFIGURANDO SHELL
+## CONFIGURANDO SHELL
 
 ## 1. Transferir arquivo para o servidor do Linux
 
