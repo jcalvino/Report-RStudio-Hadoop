@@ -2,10 +2,9 @@
 ---
 
 **ENVIRONMENT AND TOOLS:**
-[Linux RedHat Enterprise 7](https://developers.redhat.com/products/rhel/download) 
----|
-[RSTUDIO Server Pro](https://rstudio.com/products/rstudio/download/)
-[Hadoop](https://hadoop.apache.org/releases.html)
+1. [Linux RedHat Enterprise 7](https://developers.redhat.com/products/rhel/download) 
+1. [RSTUDIO Server Pro](https://rstudio.com/products/rstudio/download/)
+1. [Hadoop](https://hadoop.apache.org/releases.html)
 
 ---
 
