@@ -52,7 +52,9 @@ $ sudo rstudio-server license-manager status
 $ sudo rstudio-server license-manager activate <product-key>
 $ sudo rstudio-server restart
 
-3. Transferir arquivo **exec_extrac_report_git.r** para qualquer diretório no Linux. Ex.: (/home/prod/scripts/)
+## 3. Upload script R para o servidor Linux
+
+Transferir arquivo **exec_extrac_report_git.r** para qualquer diretório no Linux. Ex.: (/home/prod/scripts/)
 
 ---
 
